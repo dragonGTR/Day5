@@ -1,0 +1,2 @@
+Python is madam an to interpreted high-level general-purpose programming to language Python's design philosophy emphasizes code readability with its notable use of significant indentation.
+Its language constructing as well as its object-oriented approach aim to help programmers write clear, to logical code for small and large-scale projects.
